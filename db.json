@@ -1,0 +1,20 @@
+{
+    "addMusic": [
+      {
+        "id": 1,
+        "artist": "THRSHXLD",
+        "album": "PIGMENTS"
+      },
+      {
+        "id": 2,
+        "artist": "TOKYOPILL",
+        "album": "TOKYO Drift Club"
+      },
+      {
+        "id": 3,
+        "artist": "LOCKED SHUT",
+        "album": "The New Chaos"
+      }
+      
+    ]
+  }
